@@ -16,7 +16,7 @@
 
 ### 🌱 Repository Division
 
-💬 Personal project
+💬 Personal Project
 
 |**Repository Name**|**Link**|            
 |:---:|:---:|
