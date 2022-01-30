@@ -1,12 +1,10 @@
 ### Hi there 👋
 <br>
 
-
 **🔭 Portfolio** 
-- [Portfolio Link](https://velog.io/@minw001)
 - <a href="[https://velog.io/@minw001]" target="_blank"><img src="https://img.shields.io/badge/[Portfolio]-[#d3d3d3]?style=flat-square&logo=[#000000(Squarespace)]&logoColor=white"/></a>
 
-
+  
 **🌱 Repository Division**
 
 - Personal project
