@@ -1,19 +1,28 @@
-### Hi there 👋
 <br>
 
-**🔭 Portfolio** 
-- <a href="[https://velog.io/@minw001]" target="_blank"><img src="https://img.shields.io/badge/[Portfolio]-[#d3d3d3]?style=flat-square&logo=[#000000(Squarespace)]&logoColor=white"/></a>
+<div align="center">
 
+### 🔭 Portfolio
+
+</div>
+ 
+<div align="center">
   
-**🌱 Repository Division**
+<a href="[https://velog.io/@minw001]" target="_blank"><img src="https://img.shields.io/badge/[Portfolio]-[#d3d3d3]?style=flat-square&logo=[#000000(Squarespace)]&logoColor=white"/></a>
 
-- Personal project
+</div>
+
+<div align="center">
+
+### 🌱 Repository Division
+
+💬 Personal project
 
 |**Repository Name**|**Link**|            
 |:---:|:---:|
 |miniproject|[Click](https://github.com/JINWONMIN/miniproject)|
 
-- Personal Learning
+💬 Personal Learning
 
 |**Repository Name**|**Link**|            
 |:---:|:---:|
@@ -23,14 +32,14 @@
 
 <br>
 
-**⚡Tech Stack**
+### ⚡Tech Stack
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jinwonmin)
 
 ![Jinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinwonmin&theme=cobalt&show_icons=true)
 [![Jinwon's Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinwonmin&layout=compact&theme=cobalt)](https://github.com/jinwonmin)
 
-
+</div>
 
 
 
