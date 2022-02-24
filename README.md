@@ -28,7 +28,7 @@
 |:---:|:---:|
 |fundamentals_gn3|[Click](https://github.com/JINWONMIN/fundamentals_gn3)|
 |python_basic1|[Click](https://github.com/JINWONMIN/python_basic1)|
-|BasicMachineAndDeepLearning|[Click](https://github.com/JINWONMIN/BasicMachineAndDeepLearning)
+|Python_Algorithm|[Click](https://github.com/JINWONMIN/BasicMachineAndDeepLearning)
 
 <br>
 
