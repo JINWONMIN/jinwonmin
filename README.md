@@ -29,6 +29,7 @@
 |:---:|:---:|
 |fundamentals_gn3|[Click](https://github.com/JINWONMIN/fundamentals_gn3)|
 |Recommendation_System|[Click](https://github.com/JINWONMIN/RecommendationSystem)|
+|SQL_practice|[Click](https://github.com/JINWONMIN/SQL_practice/tree/main)|
 |python_basic1|[Click](https://github.com/JINWONMIN/python_basic1)|
 |Python_Algorithm|[Click](https://github.com/JINWONMIN/BasicMachineAndDeepLearning)|
 
