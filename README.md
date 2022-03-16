@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🔭 [Portfolio](https://velog.io/@minw001)
+### 🔭 Portfolio
 
 </div>
  
