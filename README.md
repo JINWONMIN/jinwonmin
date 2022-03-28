@@ -33,7 +33,7 @@
 
 <br>
 
-### ⚡Tech Stack
+### ⚡git status
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=jinwonmin)
 
