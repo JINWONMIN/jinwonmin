@@ -1,14 +1,9 @@
 <br>
 
-<div align="center">
-
-### 🔭 Portfolio
-
-</div>
  
 <div align="center">
   
-<a href="[https://velog.io/@minw001]" target="_blank"><img src="https://img.shields.io/badge/[Portfolio]-[#d3d3d3]?style=flat-square&logo=[#000000(Squarespace)]&logoColor=white"/></a>
+<a href="[https://velog.io/@minw001]" target="_blank"><img src="https://img.shields.io/badge/Blog-[#d3d3d3]?style=flat-square&logo=[#000000(Squarespace)]&logoColor=white"/></a>
 
 </div>
 
