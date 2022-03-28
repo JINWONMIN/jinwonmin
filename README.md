@@ -18,6 +18,12 @@
 |miniproject|[Click](https://github.com/JINWONMIN/miniproject)|
 |HnM_Recommendation_system|[Click](https://github.com/JINWONMIN/HnM_recommendation_system)|
 
+💬 Study
+ 
+ |**Repository Name**|**Link**|
+ |:---:|:---:|
+ |miracle_mogakko_study|[Click](https://github.com/JINWONMIN/miracle_mogakko_study)|
+ |pytorch_CV_papers_code_review|[Click](https://github.com/JINWONMIN/pytorch_CV_papers_code_review)|
  
 💬 Personal Learning
 
