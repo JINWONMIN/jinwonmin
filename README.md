@@ -49,38 +49,6 @@
 
  
 
- <br>
- <br>
- 
- 
-### 🌱 Repository Division
-
-💬 Personal Project
-
-|**Repository Name**|**Link**|            
-|:---:|:---:|
-|miniproject|[Click](https://github.com/JINWONMIN/miniproject)|
-|HnM_Recommendation_system|[Click](https://github.com/JINWONMIN/HnM_recommendation_system)|
-
-💬 Study
- 
- |**Repository Name**|**Link**|
- |:---:|:---:|
- |miracle_mogakko_study|[Click](https://github.com/JINWONMIN/miracle_mogakko_study)|
- |pytorch_CV_papers_code_review|[Click](https://github.com/JINWONMIN/pytorch_CV_papers_code_review)|
- 
-💬 Personal Learning
-
-|**Repository Name**|**Link**|            
-|:---:|:---:|
-|pytorch|[Click](https://github.com/JINWONMIN/pytorch)|
-|fundamentals_gn3|[Click](https://github.com/JINWONMIN/fundamentals_gn3)|
-|Recommendation_System|[Click](https://github.com/JINWONMIN/RecommendationSystem)|
-|SQL_practice|[Click](https://github.com/JINWONMIN/SQL_practice/tree/main)|
-|python_basic1|[Click](https://github.com/JINWONMIN/python_basic1)|
-|Python_Algorithm|[Click](https://github.com/JINWONMIN/BasicMachineAndDeepLearning)|
- 
- 
 </div>
 
 
